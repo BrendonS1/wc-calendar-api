@@ -5,8 +5,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.mjs",
-    "main": "index.mjs"
+    "start": "node index.mjs"
 
   },
   "keywords": [],
